@@ -1,4 +1,4 @@
-# Mutual Distillation Driven Dual-Space Matching for Visible–Infrared Person Re-Identification
+# MSCAINet: Multi-scale Semantic Correlation and Affinity Inference Network for Visible-Infrared Person Re-Identification
 
 Welcome to use the code from our paper **"MSCAINet: Multi-scale Semantic Correlation and Affinity Inference Network for Visible-Infrared Person Re-Identification"**. 
 
