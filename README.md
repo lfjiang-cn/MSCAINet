@@ -5,7 +5,7 @@ Welcome to use the code from our paper **"MSCAINet: Multi-scale Semantic Correla
 
 ##  Note
 
-The full model code will be released upon paper acceptance
+The full model code will be released upon paper acceptance.
 
 
 
