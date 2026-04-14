@@ -3,7 +3,9 @@
 Welcome to use the code from our paper **"MSCAINet: Multi-scale Semantic Correlation and Affinity Inference Network for Visible-Infrared Person Re-Identification"**. 
 
 
-**Note:**The full model code will be released upon paper acceptance
+##  Note
+
+he full model code will be released upon paper acceptance
 
 
 
